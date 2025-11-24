@@ -1,2 +1,2 @@
-# Lab08_USO
+# array-sorting-algorithms
 Introduction in Github
